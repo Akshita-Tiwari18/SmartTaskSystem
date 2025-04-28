@@ -1,0 +1,10 @@
+PyAutomateAI_SmartAutomation/
+├── file_organizer/
+│   ├── __init__.py   ✅ (NEW)
+│   ├── organizer.py
+├── task_manager/
+│   ├── __init__.py   ✅ (NEW)
+│   ├── manager.py
+├── main.py
+├── requirements.txt
+└── README.md
